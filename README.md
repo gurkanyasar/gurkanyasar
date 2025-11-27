@@ -5,7 +5,7 @@ I started my **Computer Engineering** education at Atatürk University in 2022. 
 🚀 **Technical Skills & Focus Areas**
 
 Through my education and individual studies, I have gained proficiency in:
-* **Languages:** C, C++, Python, MATLAB, Javascript, HTML/CSS, SQL, Matlab
+* **Languages:** C, C++, Python, MATLAB, JavaScript, HTML/CSS, SQL, ASP.Net
 * **Current Focus:** I am currently strengthening my technical foundation by developing projects in **.NET technologies**, **SQL Database Management**, and **Cyber Security**.
 
 I am progressing towards becoming an engineer who masters software development processes, possesses high security awareness, and thinks analytically.
