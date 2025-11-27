@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Davut Gürkan Yaşar! 👋
 
-<!--
-**gurkanyasar/gurkanyasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started my **Computer Engineering** education at Atatürk University in 2022. As of 2025, I transferred to **Gaziantep Islam Science and Technology University (GIBTU)** to continue my academic journey. Having experienced different academic cultures, I possess high adaptability and a mindset focused on continuous learning.
 
-Here are some ideas to get you started:
+🚀 **Technical Skills & Focus Areas**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Through my education and individual studies, I have gained proficiency in:
+* **Languages:** C, C++, Python, MATLAB, Javascript, HTML/CSS, SQL, Matlab
+* **Current Focus:** I am currently strengthening my technical foundation by developing projects in **.NET technologies**, **SQL Database Management**, and **Cyber Security**.
+
+I am progressing towards becoming an engineer who masters software development processes, possesses high security awareness, and thinks analytically.
+
+📫 **Let's Connect**
+
+Feel free to reach out for internships and project collaborations!
+
+* 📩 **Email:** [dgurkanyasar27@gmail.com](mailto:dgurkanyasar27@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/dgurkanyasar](https://linkedin.com/in/dgurkanyasar)
