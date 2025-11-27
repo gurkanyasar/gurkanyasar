@@ -14,5 +14,5 @@ I am progressing towards becoming an engineer who masters software development p
 
 Feel free to reach out for internships and project collaborations!
 
-* 📩 **Email:** [dgurkanyasar27@gmail.com](mailto:dgurkanyasar27@gmail.com)
+* 📩 **Email:** [dgurkanyasar@gmail.com](mailto:dgurkanyasar@gmail.com)
 * 🔗 **LinkedIn:** [linkedin.com/in/dgurkanyasar](https://linkedin.com/in/dgurkanyasar)
