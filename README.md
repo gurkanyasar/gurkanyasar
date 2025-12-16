@@ -1,4 +1,4 @@
-### Hi there, I'm Davut Gürkan Yaşar! 👋
+### Hi there, I'm Davut Gurkan Yasar! 👋
 
 I started my **Computer Engineering** education at Atatürk University in 2022. As of 2025, I transferred to **Gaziantep Islam Science and Technology University (GIBTU)** to continue my academic journey. Having experienced different academic cultures, I possess high adaptability and a mindset focused on continuous learning.
 
